@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardehbahyor1
 - 👀 I’m interested in Software DEvelopmenr 
-- 🌱 I’m currently learning C++, C, C# and VB.NET   
+- 🌱 I’m currently learning C++, C   
 - 💞️ I’m looking to collaborate on professional that would help in the dvelopment of my skills
 - 📫 How to reach me www.facebook.com/hardehbahayor.horlumidey https://www.linkedin.com/in/adebayo-boluwatife-99a119222/
 
