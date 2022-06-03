@@ -1,6 +1,6 @@
 👋 Hi, I’m @hardehbahyor1
 - 👀 I’m interested in BLOCKCHAIN DEVELOPMENT
-- certified C / C++ Programmer, Blockchain Programmer
+- certified C / C++ Programmer, Visual Basic Developer, Blockchain Programmer
 - 📫 How to reach me www.facebook.com/hardehbahayor.horlumidey https://www.linkedin.com/in/adebayo-boluwatife-99a119222/
 
 
