@@ -1,7 +1,7 @@
-👋 Hi, I’m @hardehbahyor1
-- 👀 I’m interested in BLOCKCHAIN DEVELOPMENT
-- certified C / C++ Programmer, Visual Basic Developer, Blockchain Programmer
-- 📫 How to reach me www.facebook.com/hardehbahayor.horlumidey https://www.linkedin.com/in/adebayo-boluwatife-99a119222/
+👋 Hi, I’m Olumdie Boluwatife Adebayo
+- 👀 I’m interested in Sofware Development, General Use of Microsoft Office Package Ms-Excel, Ms Powerpoint and Ms-Word
+- certified C Programmer, Visual Basic Developer, C# Developer
+- 📫 How to reach me www.facebook.com/hardehbahayor.horlumidey https://www.linkedin.com/in/adebayo-boluwatife-99a119222/ https://twitter.com/hardehbahyor1
 
 
 <!---
